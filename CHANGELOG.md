@@ -3,6 +3,9 @@
 
 ## UNRELEASED
 
+
+## v0.11.7 (2026-01-10)
+
 * ci: Fix tests under windows-latest CI runner [#129](https://github.com/jacobdeichert/mask/pull/129)
 
 * Use triple backticks for markdown snippets in `README.md` [#128](https://github.com/jacobdeichert/mask/pull/128) ([@danielhenrymantilla](https://github.com/danielhenrymantilla))
