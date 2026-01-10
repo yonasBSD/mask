@@ -13,6 +13,8 @@
 
 * Add support for Lua code blocks [#132](https://github.com/jacobdeichert/mask/pull/132) ([@yilisharcs](https://github.com/yilisharcs))
 
+* Add support for Swift code blocks [#134](https://github.com/jacobdeichert/mask/pull/134)
+
 
 ## v0.11.6 (2024-10-13)
 
