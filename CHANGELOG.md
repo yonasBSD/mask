@@ -9,6 +9,8 @@
 
 * Bump actions test runtime to macOS 26 [#135](https://github.com/jacobdeichert/mask/pull/135)
 
+* Remove unnecessary ruby action [#136](https://github.com/jacobdeichert/mask/pull/136)
+
 
 ## v0.11.6 (2024-10-13)
 
